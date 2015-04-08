@@ -1,0 +1,14 @@
+0;mirror=false,flick=false,byn=false,scan=false,vertInt=false,camera=false;null
+3;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;shortGlitch
+10;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;null
+12;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;shortGlitch
+13;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;shortGlitch
+14;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;longGlitch
+20;mirror=true,flick=true,byn=true,scan=true,vertInt=true,camera=true;null
+22;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;shortGlitch
+25;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;null
+32;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;longGlitch
+39;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;shortGlitch
+40;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;shortGlitch
+41;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;photo
+41;mirror=true,flick=false,byn=true,scan=true,vertInt=true,camera=true;scream
